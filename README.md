@@ -22,6 +22,7 @@ This repository contains hands-on laboratory activities, code implementations, a
 
 ### 📘 PRELIM (Hands-on Activities 1–5)
 
+<p align="center">
 | Hands-on No. | Title |
 |---|---|
 | 1.1 | Basic C++ Programming |
