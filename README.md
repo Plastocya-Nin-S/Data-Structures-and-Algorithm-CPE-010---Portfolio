@@ -5,10 +5,6 @@
 ### CPE 010 | C++ Programming Laboratory Repository
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=DATA%20STRUCTURES%20%26%20ALGORITHMS&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=C%2B%2B%20%7C%20Hands-On%20Laboratory%20Activities&descSize=15&descAlignY=65" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Course-CPE%20010-203A43?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Academic%20Year-2nd%20Year-2C5364?style=for-the-badge" />
