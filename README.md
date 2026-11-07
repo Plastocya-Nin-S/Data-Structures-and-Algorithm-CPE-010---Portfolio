@@ -1,4 +1,7 @@
-# 💻 DATA STRUCTURES AND ALGORITHMS
+<p align="center">
+  <img src="banner.png" width="100%" alt="Data Structures and Algorithms Banner">
+</p>
+
 ### CPE 010 | C++ Programming Laboratory Repository
 
 <p align="center">
