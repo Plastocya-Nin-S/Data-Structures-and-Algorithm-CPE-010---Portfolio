@@ -71,10 +71,21 @@ The repository is organized into **three academic periods** placed as **branches
  ┃ ┗ 📄 Laboratory Activities Source Codes
  ┗ 📄 README.md
 ```
-
 ---
 
-## 🛠️ TECHNOLOGIES USED
+## TOPICS per PERIOD
+
+| Prelim | Midterm | Final |
+|---|---|---|
+| Algorithm analysis and ADTs | Space and time complexity | Trees (BST, AVL, traversals) |
+| Arrays and linked lists | Linear search and binary search | Graphs (adjacency matrix and list) |
+| Stacks (array and linked list) | Hashing | **BFS** and **DFS** |
+| Queues (array and linked list) | Basic sorting algorithms | Time complexity classes |
+
+---
+---
+
+## 🛠️ APPLICATIONS USED
 
 | Technology | Purpose |
 |:---|:---|
