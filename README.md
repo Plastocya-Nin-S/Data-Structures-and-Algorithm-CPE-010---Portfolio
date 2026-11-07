@@ -24,11 +24,11 @@ This repository contains hands-on laboratory activities, code implementations, a
 
 | Hands-on No. | Title |
 |---|---|
-| 10.1 | Graphs |
-| 11.1 | Basic Algorithm Analysis |
-| 12.1 | Algorithmic Strategies |
-| 13.1 | Parallel Algorithms and Multithreading |
-| 14.1 | Algorithm Complexity |
+| **10.1** | Graphs |
+| **11.1** | Basic Algorithm Analysis |
+| **12.1** | Algorithmic Strategies |
+| **13.1** | Parallel Algorithms and Multithreading |
+| **14.1** | Algorithm Complexity |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
