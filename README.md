@@ -59,15 +59,15 @@ Upon completion of this course, students should be able to:
 
 ## 📂 REPOSITORY STRUCTURE
 
-The repository is organized into three academic periods to make the activities and programming implementations easier to navigate.
+The repository is organized into three academic periods placed as branches to make the activities and programming implementations easier to navigate.
 
 ```text
 📦 CPE-010-DATA-STRUCTURES-AND-ALGORITHMS
- ┣ 📂 Preliminaries
+ ┣ 📂 PRELIMINARIES
  ┃ ┗ 📄 Laboratory Activities Source Codes
- ┣ 📂 Midterms
+ ┣ 📂 MIDTERMS
  ┃ ┗ 📄 Laboratory Activities Source Codes
- ┣ 📂 Finals
+ ┣ 📂 FINALS
  ┃ ┗ 📄 Laboratory Activities Source Codes
  ┗ 📄 README.md
 ```
