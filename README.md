@@ -22,7 +22,6 @@ This repository contains hands-on laboratory activities, code implementations, a
 
 ### 📘 PRELIM (Hands-on Activities 1–5)
 
-<p align="center">
 | Hands-on No. | Title |
 |---|---|
 | 1.1 | Basic C++ Programming |
@@ -30,7 +29,6 @@ This repository contains hands-on laboratory activities, code implementations, a
 | 3.1 | Linked Lists |
 | 4.1 | Stacks |
 | 5.1 | Queues |
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
