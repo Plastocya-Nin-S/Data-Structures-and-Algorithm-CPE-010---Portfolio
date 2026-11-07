@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Data Structures and Algorithms Banner">
+  <img src="banner1.png" width="100%" alt="Data Structures and Algorithms Banner">
 </p>
 
 <p align="center">
