@@ -1,0 +1,20 @@
+#ifndef NODE_H
+#define NODE_H
+
+template <typename T>
+class Node{
+public:
+    T data;
+    Node<T>* next;
+};
+
+template <typename T>
+Node<T>* newNode(T newData){
+    Node<T>* newNode = new Node<T>();
+    newNode->data = newData;
+    newNode->next = nullptr;
+    return newNode;
+}
+
+#endif
+
