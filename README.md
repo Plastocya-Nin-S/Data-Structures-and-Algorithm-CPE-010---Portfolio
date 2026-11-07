@@ -2,6 +2,10 @@
   <img src="banner.png" width="100%" alt="Data Structures and Algorithms Banner">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+</p>
+
 ### CPE 010 | C++ Programming Laboratory Repository
 
 <p align="center">
@@ -80,12 +84,6 @@ The repository is organized into three academic periods to make the activities a
 | **GitHub** | Source code repository and project documentation |
 
 ---
-
-<p align="center">
-  <b>BUILD • IMPLEMENT • ANALYZE • IMPROVE</b>
-  <br/>
-  <i>Learning the fundamentals, one algorithm at a time.</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
