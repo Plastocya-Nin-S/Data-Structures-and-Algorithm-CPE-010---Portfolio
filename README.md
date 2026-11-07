@@ -24,10 +24,10 @@ This repository contains hands-on laboratory activities, code implementations, a
 
 | Hands-on No. | Title |
 |---|---|
-| 6.1 | Searching Techniques |
-| 7.1 | Sorting Algorithms Part 1 |
-| 8.1 | Sorting Algorithms Part 2 |
-| 9.1 | Tree ADT |
+| **6.1** | Searching Techniques |
+| **7.1** | Sorting Algorithms Part 1 |
+| **8.1** | Sorting Algorithms Part 2 |
+| **9.1** | Tree ADT |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
